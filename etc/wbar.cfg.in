@@ -1,0 +1,9 @@
+i: @PIXMAPDIR@/@PACKAGE_NAME@/dock.png
+c: @PACKAGE_NAME@ @DEFAULT_ARGV@
+t: none
+
+i: @PIXMAPDIR@/@PACKAGE_NAME@/wbar.png
+c: wbar-config
+t: Config
+
+

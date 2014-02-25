@@ -1,0 +1,14 @@
+[Desktop Entry]
+_Name=Warlock Bar
+Type=Application
+Exec=@BINDIR@/@PACKAGE_NAME@
+Terminal=false
+Icon=@PIXMAPDIR@/@PACKAGE_NAME@/@PACKAGE_NAME@.png
+_Comment=A light and fast launch bar.
+Categories=Utility;
+X-GNOME-Bugzilla-Bugzilla=GNOME
+X-GNOME-Bugzilla-Product=@PACKAGE_NAME@
+X-GNOME-Bugzilla-Component=general
+X-GNOME-Autostart-enabled=true
+X-GNOME-Autostart-Delay=30
+X-Ubuntu-Gettext-Domain=@PACKAGE_NAME@
